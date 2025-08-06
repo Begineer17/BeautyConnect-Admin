@@ -1,0 +1,70 @@
+export const BusinessTypes = [
+  { id: 1, name: "spa" },
+  { id: 2, name: "salon" },
+  { id: 3, name: "Nghệ sĩ tự do (freelancer)" }
+];
+
+export const Cities = [
+  { value: "Hanoi", label: "Hà Nội" },
+  { value: "TP.HCM", label: "Thành phố Hồ Chí Minh" },
+  { value: "DaNang", label: "Đà Nẵng" },
+  { value: "HaiPhong", label: "Hải Phòng" },
+  { value: "CanTho", label: "Cần Thơ" },
+  { value: "Hue", label: "Huế" },
+  { value: "VungTau", label: "Vũng Tàu" },
+  { value: "QuyNhon", label: "Quy Nhơn" },
+  { value: "PhuQuoc", label: "Phú Quốc" },
+  { value: "DaLat", label: "Đà Lạt" },
+  { value: "LongXuyen", label: "Long Xuyên" },
+  { value: "BuonMaThuot", label: "Buôn Ma Thuột" },
+  { value: "ThaiNguyen", label: "Thái Nguyên" },
+  { value: "NamDinh", label: "Nam Định" },
+  { value: "BacNinh", label: "Bắc Ninh" },
+  { value: "BacGiang", label: "Bắc Giang" },
+  { value: "Vinh", label: "Vinh" },
+  { value: "PhanThiet", label: "Phan Thiết" },
+  { value: "CamRanh", label: "Cam Ranh" },
+  { value: "MyTho", label: "Mỹ Tho" },
+  { value: "CaMau", label: "Cà Mau" },
+  { value: "BacLieu", label: "Bạc Liêu" },
+  { value: "RachGia", label: "Rạch Giá" },
+];
+
+export const Districts = [
+  { value: "Ba Dinh", label: "Ba Đình" },
+  { value: "Hoan Kiem", label: "Hoàn Kiếm" },
+  { value: "Dong Da", label: "Đống Đa" },
+  { value: "Hai Ba Trung", label: "Hai Bà Trưng" },
+  { value: "Hoang Mai", label: "Hoàng Mai" },
+  { value: "Cau Giay", label: "Cầu Giấy" },
+  { value: "Thanh Xuan", label: "Thanh Xuân" },
+  { value: "Long Bien", label: "Long Biên" },
+  { value: "Nam Tu Liem", label: "Nam Từ Liêm" },
+  { value: "Bac Tu Liem", label: "Bắc Từ Liêm" },
+  { value: "Tu Liem", label: "Từ Liêm" },
+  { value: "Dong Anh", label: "Đông Anh" },
+  { value: "Soc Son", label: "Sóc Sơn" },
+  { value: "Gia Lam", label: "Gia Lâm" },
+  { value: "Thanh Tri", label: "Thanh Trì" },
+  { value: "Me Linh", label: "Mê Linh" },
+  { value: "Quan 3", label: "Quận 3" },
+  { value: "Quan 5", label: "Quận 5" },
+  { value: "Quan 10", label: "Quận 10" },
+  { value: "Quan 11", label: "Quận 11" },
+  { value: "Quan 12", label: "Quận 12" },
+  { value: "Binh Thanh", label: "Bình Thạnh" },
+  { value: "Go Vap", label: "Gò Vấp" },
+  { value: "Tan Binh", label: "Tân Bình" },
+  { value: "Tan Phu", label: "Tân Phú" },
+];
+
+export const ServiceCategories = [
+  { id: "hair", name: "Tóc" },
+  { id: "nail", name: "Móng" },
+  { id: "facial", name: "Chăm sóc da mặt" },
+  { id: "massage", name: "Massage" },
+  { id: "makeup", name: "Trang điểm" },
+  { id: "eyelash", name: "Nối mi" },
+  { id: "waxing", name: "Tẩy lông" },
+  { id: "spa", name: "Spa toàn thân" }
+];
